@@ -9,6 +9,7 @@ jobs:
       matrix:
         os:
         - ubuntu-20.04
+        - macos-11
         toolchain:
         - 1.51.0
 
